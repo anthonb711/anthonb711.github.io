@@ -676,7 +676,7 @@
       { "Seventh": { "string": "", "finger": "" } }
     ]
   },
-    {
+  {
     "note": "D5",
     "position": [ 
       { "Open"   : { "string": "", "finger": "" } },
@@ -688,7 +688,7 @@
       { "Sixith" : { "string": "", "finger": "" } },
       { "Seventh": { "string": "", "finger": "" } }
     ]
-  }
+  },
   {
     "note": "D♭5",
     "position": [ 
