@@ -1,10 +1,536 @@
-{
-  "C2": { "String": "C",
-          "Position": "Open",
-          "Finger"  : "Open"
-        }
-  "C&sharp2": { "String": "C&sharp2",
-          "Position": "Open",
-          "Finger"  : "Open"
-        }
-}
+
+[
+  {
+    "note": "C2",
+    "position": [ 
+      { "Open"   : { "string": "", "finger": "" } },
+      { "First"  : { "string": "", "finger": "" } },
+      { "Second" : { "string": "", "finger": "" } },
+      { "Third"  : { "string": "", "finger": "" } },
+      { "Fourth" : { "string": "", "finger": "" } },
+      { "Fifth"  : { "string": "", "finger": "" } },
+      { "Sixith" : { "string": "", "finger": "" } },
+      { "Seventh": { "string": "", "finger": "" } }
+    ]
+  },
+  {
+    "note": "C♯2",
+    "position": [ 
+      { "Open"   : { "string": "", "finger": "" } },
+      { "First"  : { "string": "", "finger": "" } },
+      { "Second" : { "string": "", "finger": "" } },
+      { "Third"  : { "string": "", "finger": "" } },
+      { "Fourth" : { "string": "", "finger": "" } },
+      { "Fifth"  : { "string": "", "finger": "" } },
+      { "Sixith" : { "string": "", "finger": "" } },
+      { "Seventh": { "string": "", "finger": "" } }
+    ]
+  },
+  {
+    "note": "D2",
+    "position": [ 
+      { "Open"   : { "string": "", "finger": "" } },
+      { "First"  : { "string": "", "finger": "" } },
+      { "Second" : { "string": "", "finger": "" } },
+      { "Third"  : { "string": "", "finger": "" } },
+      { "Fourth" : { "string": "", "finger": "" } },
+      { "Fifth"  : { "string": "", "finger": "" } },
+      { "Sixith" : { "string": "", "finger": "" } },
+      { "Seventh": { "string": "", "finger": "" } }
+    ]
+  },
+  {
+    "note": "E♭2",
+    "position": [ 
+      { "Open"   : { "string": "", "finger": "" } },
+      { "First"  : { "string": "", "finger": "" } },
+      { "Second" : { "string": "", "finger": "" } },
+      { "Third"  : { "string": "", "finger": "" } },
+      { "Fourth" : { "string": "", "finger": "" } },
+      { "Fifth"  : { "string": "", "finger": "" } },
+      { "Sixith" : { "string": "", "finger": "" } },
+      { "Seventh": { "string": "", "finger": "" } }
+    ]
+  },
+  {
+    "note": "E2",
+    "position": [ 
+      { "Open"   : { "string": "", "finger": "" } },
+      { "First"  : { "string": "", "finger": "" } },
+      { "Second" : { "string": "", "finger": "" } },
+      { "Third"  : { "string": "", "finger": "" } },
+      { "Fourth" : { "string": "", "finger": "" } },
+      { "Fifth"  : { "string": "", "finger": "" } },
+      { "Sixith" : { "string": "", "finger": "" } },
+      { "Seventh": { "string": "", "finger": "" } }
+    ]
+  },
+  {
+    "note": "F2",
+    "position": [ 
+      { "Open"   : { "string": "", "finger": "" } },
+      { "First"  : { "string": "", "finger": "" } },
+      { "Second" : { "string": "", "finger": "" } },
+      { "Third"  : { "string": "", "finger": "" } },
+      { "Fourth" : { "string": "", "finger": "" } },
+      { "Fifth"  : { "string": "", "finger": "" } },
+      { "Sixith" : { "string": "", "finger": "" } },
+      { "Seventh": { "string": "", "finger": "" } }
+    ]
+  },
+  {
+    "note": "F♯2",
+    "position": [ 
+      { "Open"   : { "string": "", "finger": "" } },
+      { "First"  : { "string": "", "finger": "" } },
+      { "Second" : { "string": "", "finger": "" } },
+      { "Third"  : { "string": "", "finger": "" } },
+      { "Fourth" : { "string": "", "finger": "" } },
+      { "Fifth"  : { "string": "", "finger": "" } },
+      { "Sixith" : { "string": "", "finger": "" } },
+      { "Seventh": { "string": "", "finger": "" } }
+    ]
+  },
+  {
+    "note": "G2",
+    "position": [ 
+      { "Open"   : { "string": "", "finger": "" } },
+      { "First"  : { "string": "", "finger": "" } },
+      { "Second" : { "string": "", "finger": "" } },
+      { "Third"  : { "string": "", "finger": "" } },
+      { "Fourth" : { "string": "", "finger": "" } },
+      { "Fifth"  : { "string": "", "finger": "" } },
+      { "Sixith" : { "string": "", "finger": "" } },
+      { "Seventh": { "string": "", "finger": "" } }
+    ]
+  },
+  {
+    "note": "G♯2",
+    "position": [ 
+      { "Open"   : { "string": "", "finger": "" } },
+      { "First"  : { "string": "", "finger": "" } },
+      { "Second" : { "string": "", "finger": "" } },
+      { "Third"  : { "string": "", "finger": "" } },
+      { "Fourth" : { "string": "", "finger": "" } },
+      { "Fifth"  : { "string": "", "finger": "" } },
+      { "Sixith" : { "string": "", "finger": "" } },
+      { "Seventh": { "string": "", "finger": "" } }
+    ]
+  },
+  {
+    "note": "A2",
+    "position": [ 
+      { "Open"   : { "string": "", "finger": "" } },
+      { "First"  : { "string": "", "finger": "" } },
+      { "Second" : { "string": "", "finger": "" } },
+      { "Third"  : { "string": "", "finger": "" } },
+      { "Fourth" : { "string": "", "finger": "" } },
+      { "Fifth"  : { "string": "", "finger": "" } },
+      { "Sixith" : { "string": "", "finger": "" } },
+      { "Seventh": { "string": "", "finger": "" } }
+    ]
+  },
+  {
+    "note": "B♭2",
+    "position": [ 
+      { "Open"   : { "string": "", "finger": "" } },
+      { "First"  : { "string": "", "finger": "" } },
+      { "Second" : { "string": "", "finger": "" } },
+      { "Third"  : { "string": "", "finger": "" } },
+      { "Fourth" : { "string": "", "finger": "" } },
+      { "Fifth"  : { "string": "", "finger": "" } },
+      { "Sixith" : { "string": "", "finger": "" } },
+      { "Seventh": { "string": "", "finger": "" } }
+    ]
+  },
+  {
+    "note": "B2",
+    "position": [ 
+      { "Open"   : { "string": "", "finger": "" } },
+      { "First"  : { "string": "", "finger": "" } },
+      { "Second" : { "string": "", "finger": "" } },
+      { "Third"  : { "string": "", "finger": "" } },
+      { "Fourth" : { "string": "", "finger": "" } },
+      { "Fifth"  : { "string": "", "finger": "" } },
+      { "Sixith" : { "string": "", "finger": "" } },
+      { "Seventh": { "string": "", "finger": "" } }
+    ]
+  },
+  {
+    "note": "B2",
+    "position": [ 
+      { "Open"   : { "string": "", "finger": "" } },
+      { "First"  : { "string": "", "finger": "" } },
+      { "Second" : { "string": "", "finger": "" } },
+      { "Third"  : { "string": "", "finger": "" } },
+      { "Fourth" : { "string": "", "finger": "" } },
+      { "Fifth"  : { "string": "", "finger": "" } },
+      { "Sixith" : { "string": "", "finger": "" } },
+      { "Seventh": { "string": "", "finger": "" } }
+    ]
+  },
+  {
+    "note": "C3",
+    "position": [ 
+      { "Open"   : { "string": "", "finger": "" } },
+      { "First"  : { "string": "", "finger": "" } },
+      { "Second" : { "string": "", "finger": "" } },
+      { "Third"  : { "string": "", "finger": "" } },
+      { "Fourth" : { "string": "", "finger": "" } },
+      { "Fifth"  : { "string": "", "finger": "" } },
+      { "Sixith" : { "string": "", "finger": "" } },
+      { "Seventh": { "string": "", "finger": "" } }
+    ]
+  },
+  {
+    "note": "C♯3",
+    "position": [ 
+      { "Open"   : { "string": "", "finger": "" } },
+      { "First"  : { "string": "", "finger": "" } },
+      { "Second" : { "string": "", "finger": "" } },
+      { "Third"  : { "string": "", "finger": "" } },
+      { "Fourth" : { "string": "", "finger": "" } },
+      { "Fifth"  : { "string": "", "finger": "" } },
+      { "Sixith" : { "string": "", "finger": "" } },
+      { "Seventh": { "string": "", "finger": "" } }
+    ]
+  },
+  {
+    "note": "D3",
+    "position": [ 
+      { "Open"   : { "string": "", "finger": "" } },
+      { "First"  : { "string": "", "finger": "" } },
+      { "Second" : { "string": "", "finger": "" } },
+      { "Third"  : { "string": "", "finger": "" } },
+      { "Fourth" : { "string": "", "finger": "" } },
+      { "Fifth"  : { "string": "", "finger": "" } },
+      { "Sixith" : { "string": "", "finger": "" } },
+      { "Seventh": { "string": "", "finger": "" } }
+    ]
+  },
+  {
+    "note": "D♯3",
+    "position": [ 
+      { "Open"   : { "string": "", "finger": "" } },
+      { "First"  : { "string": "", "finger": "" } },
+      { "Second" : { "string": "", "finger": "" } },
+      { "Third"  : { "string": "", "finger": "" } },
+      { "Fourth" : { "string": "", "finger": "" } },
+      { "Fifth"  : { "string": "", "finger": "" } },
+      { "Sixith" : { "string": "", "finger": "" } },
+      { "Seventh": { "string": "", "finger": "" } }
+    ]
+  },
+  {
+    "note": "E3",
+    "position": [ 
+      { "Open"   : { "string": "", "finger": "" } },
+      { "First"  : { "string": "", "finger": "" } },
+      { "Second" : { "string": "", "finger": "" } },
+      { "Third"  : { "string": "", "finger": "" } },
+      { "Fourth" : { "string": "", "finger": "" } },
+      { "Fifth"  : { "string": "", "finger": "" } },
+      { "Sixith" : { "string": "", "finger": "" } },
+      { "Seventh": { "string": "", "finger": "" } }
+    ]
+  },
+  {
+    "note": "F3",
+    "position": [ 
+      { "Open"   : { "string": "", "finger": "" } },
+      { "First"  : { "string": "", "finger": "" } },
+      { "Second" : { "string": "", "finger": "" } },
+      { "Third"  : { "string": "", "finger": "" } },
+      { "Fourth" : { "string": "", "finger": "" } },
+      { "Fifth"  : { "string": "", "finger": "" } },
+      { "Sixith" : { "string": "", "finger": "" } },
+      { "Seventh": { "string": "", "finger": "" } }
+    ]
+  },
+  {
+    "note": "F♯3",
+    "position": [ 
+      { "Open"   : { "string": "", "finger": "" } },
+      { "First"  : { "string": "", "finger": "" } },
+      { "Second" : { "string": "", "finger": "" } },
+      { "Third"  : { "string": "", "finger": "" } },
+      { "Fourth" : { "string": "", "finger": "" } },
+      { "Fifth"  : { "string": "", "finger": "" } },
+      { "Sixith" : { "string": "", "finger": "" } },
+      { "Seventh": { "string": "", "finger": "" } }
+    ]
+  },
+  {
+    "note": "G3",
+    "position": [ 
+      { "Open"   : { "string": "", "finger": "" } },
+      { "First"  : { "string": "", "finger": "" } },
+      { "Second" : { "string": "", "finger": "" } },
+      { "Third"  : { "string": "", "finger": "" } },
+      { "Fourth" : { "string": "", "finger": "" } },
+      { "Fifth"  : { "string": "", "finger": "" } },
+      { "Sixith" : { "string": "", "finger": "" } },
+      { "Seventh": { "string": "", "finger": "" } }
+    ]
+  },
+  {
+    "note": "G♯3",
+    "position": [ 
+      { "Open"   : { "string": "", "finger": "" } },
+      { "First"  : { "string": "", "finger": "" } },
+      { "Second" : { "string": "", "finger": "" } },
+      { "Third"  : { "string": "", "finger": "" } },
+      { "Fourth" : { "string": "", "finger": "" } },
+      { "Fifth"  : { "string": "", "finger": "" } },
+      { "Sixith" : { "string": "", "finger": "" } },
+      { "Seventh": { "string": "", "finger": "" } }
+    ]
+  },
+  {
+    "note": "A3",
+    "position": [ 
+      { "Open"   : { "string": "", "finger": "" } },
+      { "First"  : { "string": "", "finger": "" } },
+      { "Second" : { "string": "", "finger": "" } },
+      { "Third"  : { "string": "", "finger": "" } },
+      { "Fourth" : { "string": "", "finger": "" } },
+      { "Fifth"  : { "string": "", "finger": "" } },
+      { "Sixith" : { "string": "", "finger": "" } },
+      { "Seventh": { "string": "", "finger": "" } }
+    ]
+  },
+  {
+    "note": "A♯3",
+    "position": [ 
+      { "Open"   : { "string": "", "finger": "" } },
+      { "First"  : { "string": "", "finger": "" } },
+      { "Second" : { "string": "", "finger": "" } },
+      { "Third"  : { "string": "", "finger": "" } },
+      { "Fourth" : { "string": "", "finger": "" } },
+      { "Fifth"  : { "string": "", "finger": "" } },
+      { "Sixith" : { "string": "", "finger": "" } },
+      { "Seventh": { "string": "", "finger": "" } }
+    ]
+  },
+  {
+    "note": "B3",
+    "position": [ 
+      { "Open"   : { "string": "", "finger": "" } },
+      { "First"  : { "string": "", "finger": "" } },
+      { "Second" : { "string": "", "finger": "" } },
+      { "Third"  : { "string": "", "finger": "" } },
+      { "Fourth" : { "string": "", "finger": "" } },
+      { "Fifth"  : { "string": "", "finger": "" } },
+      { "Sixith" : { "string": "", "finger": "" } },
+      { "Seventh": { "string": "", "finger": "" } }
+    ]
+  },
+  {
+    "note": "C4",
+    "position": [ 
+      { "Open"   : { "string": "", "finger": "" } },
+      { "First"  : { "string": "", "finger": "" } },
+      { "Second" : { "string": "", "finger": "" } },
+      { "Third"  : { "string": "", "finger": "" } },
+      { "Fourth" : { "string": "", "finger": "" } },
+      { "Fifth"  : { "string": "", "finger": "" } },
+      { "Sixith" : { "string": "", "finger": "" } },
+      { "Seventh": { "string": "", "finger": "" } }
+    ]
+  },
+  {
+    "note": "C♯4",
+    "position": [ 
+      { "Open"   : { "string": "", "finger": "" } },
+      { "First"  : { "string": "", "finger": "" } },
+      { "Second" : { "string": "", "finger": "" } },
+      { "Third"  : { "string": "", "finger": "" } },
+      { "Fourth" : { "string": "", "finger": "" } },
+      { "Fifth"  : { "string": "", "finger": "" } },
+      { "Sixith" : { "string": "", "finger": "" } },
+      { "Seventh": { "string": "", "finger": "" } }
+    ]
+  },
+  {
+    "note": "D4",
+    "position": [ 
+      { "Open"   : { "string": "", "finger": "" } },
+      { "First"  : { "string": "", "finger": "" } },
+      { "Second" : { "string": "", "finger": "" } },
+      { "Third"  : { "string": "", "finger": "" } },
+      { "Fourth" : { "string": "", "finger": "" } },
+      { "Fifth"  : { "string": "", "finger": "" } },
+      { "Sixith" : { "string": "", "finger": "" } },
+      { "Seventh": { "string": "", "finger": "" } }
+    ]
+  },
+  {
+    "note": "D♯4",
+    "position": [ 
+      { "Open"   : { "string": "", "finger": "" } },
+      { "First"  : { "string": "", "finger": "" } },
+      { "Second" : { "string": "", "finger": "" } },
+      { "Third"  : { "string": "", "finger": "" } },
+      { "Fourth" : { "string": "", "finger": "" } },
+      { "Fifth"  : { "string": "", "finger": "" } },
+      { "Sixith" : { "string": "", "finger": "" } },
+      { "Seventh": { "string": "", "finger": "" } }
+    ]
+  },
+  {
+    "note": "E♭4",
+    "position": [ 
+      { "Open"   : { "string": "", "finger": "" } },
+      { "First"  : { "string": "", "finger": "" } },
+      { "Second" : { "string": "", "finger": "" } },
+      { "Third"  : { "string": "", "finger": "" } },
+      { "Fourth" : { "string": "", "finger": "" } },
+      { "Fifth"  : { "string": "", "finger": "" } },
+      { "Sixith" : { "string": "", "finger": "" } },
+      { "Seventh": { "string": "", "finger": "" } }
+    ]
+  },
+  {
+    "note": "E4",
+    "position": [ 
+      { "Open"   : { "string": "", "finger": "" } },
+      { "First"  : { "string": "", "finger": "" } },
+      { "Second" : { "string": "", "finger": "" } },
+      { "Third"  : { "string": "", "finger": "" } },
+      { "Fourth" : { "string": "", "finger": "" } },
+      { "Fifth"  : { "string": "", "finger": "" } },
+      { "Sixith" : { "string": "", "finger": "" } },
+      { "Seventh": { "string": "", "finger": "" } }
+    ]
+  },
+  {
+    "note": "F4",
+    "position": [ 
+      { "Open"   : { "string": "", "finger": "" } },
+      { "First"  : { "string": "", "finger": "" } },
+      { "Second" : { "string": "", "finger": "" } },
+      { "Third"  : { "string": "", "finger": "" } },
+      { "Fourth" : { "string": "", "finger": "" } },
+      { "Fifth"  : { "string": "", "finger": "" } },
+      { "Sixith" : { "string": "", "finger": "" } },
+      { "Seventh": { "string": "", "finger": "" } }
+    ]
+  },
+  {
+    "note": "F♯4",
+    "position": [ 
+      { "Open"   : { "string": "", "finger": "" } },
+      { "First"  : { "string": "", "finger": "" } },
+      { "Second" : { "string": "", "finger": "" } },
+      { "Third"  : { "string": "", "finger": "" } },
+      { "Fourth" : { "string": "", "finger": "" } },
+      { "Fifth"  : { "string": "", "finger": "" } },
+      { "Sixith" : { "string": "", "finger": "" } },
+      { "Seventh": { "string": "", "finger": "" } }
+    ]
+  },
+  {
+    "note": "G♭4",
+    "position": [ 
+      { "Open"   : { "string": "", "finger": "" } },
+      { "First"  : { "string": "", "finger": "" } },
+      { "Second" : { "string": "", "finger": "" } },
+      { "Third"  : { "string": "", "finger": "" } },
+      { "Fourth" : { "string": "", "finger": "" } },
+      { "Fifth"  : { "string": "", "finger": "" } },
+      { "Sixith" : { "string": "", "finger": "" } },
+      { "Seventh": { "string": "", "finger": "" } }
+    ]
+  },
+  {
+    "note": "G4",
+    "position": [ 
+      { "Open"   : { "string": "", "finger": "" } },
+      { "First"  : { "string": "", "finger": "" } },
+      { "Second" : { "string": "", "finger": "" } },
+      { "Third"  : { "string": "", "finger": "" } },
+      { "Fourth" : { "string": "", "finger": "" } },
+      { "Fifth"  : { "string": "", "finger": "" } },
+      { "Sixith" : { "string": "", "finger": "" } },
+      { "Seventh": { "string": "", "finger": "" } }
+    ]
+  },
+  {
+    "note": "A4",
+    "position": [ 
+      { "Open"   : { "string": "", "finger": "" } },
+      { "First"  : { "string": "", "finger": "" } },
+      { "Second" : { "string": "", "finger": "" } },
+      { "Third"  : { "string": "", "finger": "" } },
+      { "Fourth" : { "string": "", "finger": "" } },
+      { "Fifth"  : { "string": "", "finger": "" } },
+      { "Sixith" : { "string": "", "finger": "" } },
+      { "Seventh": { "string": "", "finger": "" } }
+    ]
+  },
+  {
+    "note": "B4",
+    "position": [ 
+      { "Open"   : { "string": "", "finger": "" } },
+      { "First"  : { "string": "", "finger": "" } },
+      { "Second" : { "string": "", "finger": "" } },
+      { "Third"  : { "string": "", "finger": "" } },
+      { "Fourth" : { "string": "", "finger": "" } },
+      { "Fifth"  : { "string": "", "finger": "" } },
+      { "Sixith" : { "string": "", "finger": "" } },
+      { "Seventh": { "string": "", "finger": "" } }
+    ]
+  },
+  {
+    "note": "C5",
+    "position": [ 
+      { "Open"   : { "string": "", "finger": "" } },
+      { "First"  : { "string": "", "finger": "" } },
+      { "Second" : { "string": "", "finger": "" } },
+      { "Third"  : { "string": "", "finger": "" } },
+      { "Fourth" : { "string": "", "finger": "" } },
+      { "Fifth"  : { "string": "", "finger": "" } },
+      { "Sixith" : { "string": "", "finger": "" } },
+      { "Seventh": { "string": "", "finger": "" } }
+    ]
+  },
+  {
+    "note": "C♯5",
+    "position": [ 
+      { "Open"   : { "string": "", "finger": "" } },
+      { "First"  : { "string": "", "finger": "" } },
+      { "Second" : { "string": "", "finger": "" } },
+      { "Third"  : { "string": "", "finger": "" } },
+      { "Fourth" : { "string": "", "finger": "" } },
+      { "Fifth"  : { "string": "", "finger": "" } },
+      { "Sixith" : { "string": "", "finger": "" } },
+      { "Seventh": { "string": "", "finger": "" } }
+    ]
+  },
+  {
+    "note": "B5",
+    "position": [ 
+      { "Open"   : { "string": "", "finger": "" } },
+      { "First"  : { "string": "", "finger": "" } },
+      { "Second" : { "string": "", "finger": "" } },
+      { "Third"  : { "string": "", "finger": "" } },
+      { "Fourth" : { "string": "", "finger": "" } },
+      { "Fifth"  : { "string": "", "finger": "" } },
+      { "Sixith" : { "string": "", "finger": "" } },
+      { "Seventh": { "string": "", "finger": "" } }
+    ]
+  },
+  {
+    "note": "A5",
+    "position": [ 
+      { "Open"   : { "string": "", "finger": "" } },
+      { "First"  : { "string": "", "finger": "" } },
+      { "Second" : { "string": "", "finger": "" } },
+      { "Third"  : { "string": "", "finger": "" } },
+      { "Fourth" : { "string": "", "finger": "" } },
+      { "Fifth"  : { "string": "", "finger": "" } },
+      { "Sixith" : { "string": "", "finger": "" } },
+      { "Seventh": { "string": "", "finger": "" } }
+    ]
+  }
+]
