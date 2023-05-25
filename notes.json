@@ -3,703 +3,515 @@
   {
     "note": "C2",
     "position": [ 
-      { "Open"   : { "string": "", "finger": "" } },
-      { "First"  : { "string": "", "finger": "" } },
-      { "Second" : { "string": "", "finger": "" } },
-      { "Third"  : { "string": "", "finger": "" } },
-      { "Fourth" : { "string": "", "finger": "" } },
-      { "Fifth"  : { "string": "", "finger": "" } },
-      { "Sixith" : { "string": "", "finger": "" } },
-      { "Seventh": { "string": "", "finger": "" } }
+      { "Open"   : { "string": "C", "finger": "0" } }
     ]
   },
   {
     "note": "C♯2",
     "position": [ 
-      { "Open"   : { "string": "", "finger": "" } },
-      { "First"  : { "string": "", "finger": "" } },
-      { "Second" : { "string": "", "finger": "" } },
-      { "Third"  : { "string": "", "finger": "" } },
-      { "Fourth" : { "string": "", "finger": "" } },
-      { "Fifth"  : { "string": "", "finger": "" } },
-      { "Sixith" : { "string": "", "finger": "" } },
-      { "Seventh": { "string": "", "finger": "" } }
+      { "Half"   : { "string": "C", "finger": "1" } }
     ]
   },
   {
     "note": "D2",
     "position": [ 
-      { "Open"   : { "string": "", "finger": "" } },
-      { "First"  : { "string": "", "finger": "" } },
-      { "Second" : { "string": "", "finger": "" } },
-      { "Third"  : { "string": "", "finger": "" } },
-      { "Fourth" : { "string": "", "finger": "" } },
-      { "Fifth"  : { "string": "", "finger": "" } },
-      { "Sixith" : { "string": "", "finger": "" } },
-      { "Seventh": { "string": "", "finger": "" } }
+      { "Half"   : { "string": "C", "finger": "2" } },
+      { "First"  : { "string": "C", "finger": "1" } }
     ]
   },
     {
     "note": "D♯2",
     "position": [ 
-      { "Open"   : { "string": "", "finger": "" } },
-      { "First"  : { "string": "", "finger": "" } },
-      { "Second" : { "string": "", "finger": "" } },
-      { "Third"  : { "string": "", "finger": "" } },
-      { "Fourth" : { "string": "", "finger": "" } },
-      { "Fifth"  : { "string": "", "finger": "" } },
-      { "Sixith" : { "string": "", "finger": "" } },
-      { "Seventh": { "string": "", "finger": "" } }
+      { "Half"   : { "string": "C", "finger": "3" } },
+      { "First"  : { "string": "C", "finger": "2" } },
+      { "Second" : { "string": "C", "finger": "1" } }
     ]
   },
   {
     "note": "E♭2",
     "position": [ 
-      { "Open"   : { "string": "", "finger": "" } },
-      { "First"  : { "string": "", "finger": "" } },
-      { "Second" : { "string": "", "finger": "" } },
-      { "Third"  : { "string": "", "finger": "" } },
-      { "Fourth" : { "string": "", "finger": "" } },
-      { "Fifth"  : { "string": "", "finger": "" } },
-      { "Sixith" : { "string": "", "finger": "" } },
-      { "Seventh": { "string": "", "finger": "" } }
+      { "Half"   : { "string": "C", "finger": "3" } },
+      { "First"  : { "string": "C", "finger": "2" } },
+      { "Second" : { "string": "C", "finger": "1" } }
     ]
   },
   {
     "note": "E2",
     "position": [ 
-      { "Open"   : { "string": "", "finger": "" } },
-      { "First"  : { "string": "", "finger": "" } },
-      { "Second" : { "string": "", "finger": "" } },
-      { "Third"  : { "string": "", "finger": "" } },
-      { "Fourth" : { "string": "", "finger": "" } },
-      { "Fifth"  : { "string": "", "finger": "" } },
-      { "Sixith" : { "string": "", "finger": "" } },
-      { "Seventh": { "string": "", "finger": "" } }
+      { "Half"   : { "string": "C", "finger": "4"      } },
+      { "First"  : { "string": "C", "finger": "3"      } },
+      { "Second" : { "string": "C", "finger": "2"      } },
+      { "Third"  : { "string": "C", "finger": "1 ext." } }
     ]
   },
   {
     "note": "F2",
     "position": [ 
-      { "Open"   : { "string": "", "finger": "" } },
-      { "First"  : { "string": "", "finger": "" } },
-      { "Second" : { "string": "", "finger": "" } },
-      { "Third"  : { "string": "", "finger": "" } },
-      { "Fourth" : { "string": "", "finger": "" } },
-      { "Fifth"  : { "string": "", "finger": "" } },
-      { "Sixith" : { "string": "", "finger": "" } },
-      { "Seventh": { "string": "", "finger": "" } }
+      { "Half"   : { "string": "C", "finger": "4 ext." } },
+      { "First"  : { "string": "C", "finger": "4"      } },
+      { "Second" : { "string": "C", "finger": "3"      } },
+      { "Third"  : { "string": "C", "finger": "1"      } }
     ]
   },
   {
     "note": "F♯2",
     "position": [ 
-      { "Open"   : { "string": "", "finger": "" } },
-      { "First"  : { "string": "", "finger": "" } },
-      { "Second" : { "string": "", "finger": "" } },
-      { "Third"  : { "string": "", "finger": "" } },
-      { "Fourth" : { "string": "", "finger": "" } },
-      { "Fifth"  : { "string": "", "finger": "" } },
-      { "Sixith" : { "string": "", "finger": "" } },
-      { "Seventh": { "string": "", "finger": "" } }
+      { "First"  : { "string": "C", "finger": "4 ext." } },
+      { "Second" : { "string": "C", "finger": "4"      } },
+      { "Third"  : { "string": "C", "finger": "2"      } },
+      { "Fourth" : { "string": "C", "finger": "1 ext." } }
     ]
   },
     {
     "note": "G♭2",
     "position": [ 
-      { "Open"   : { "string": "", "finger": "" } },
-      { "First"  : { "string": "", "finger": "" } },
-      { "Second" : { "string": "", "finger": "" } },
-      { "Third"  : { "string": "", "finger": "" } },
-      { "Fourth" : { "string": "", "finger": "" } },
-      { "Fifth"  : { "string": "", "finger": "" } },
-      { "Sixith" : { "string": "", "finger": "" } },
-      { "Seventh": { "string": "", "finger": "" } }
+      { "First"  : { "string": "C", "finger": "4 ext." } },
+      { "Second" : { "string": "C", "finger": "4"      } },
+      { "Third"  : { "string": "C", "finger": "2"      } },
+      { "Fourth" : { "string": "C", "finger": "1 ext." } }
     ]
   },
   {
     "note": "G2",
     "position": [ 
-      { "Open"   : { "string": "", "finger": "" } },
-      { "First"  : { "string": "", "finger": "" } },
-      { "Second" : { "string": "", "finger": "" } },
-      { "Third"  : { "string": "", "finger": "" } },
-      { "Fourth" : { "string": "", "finger": "" } },
-      { "Fifth"  : { "string": "", "finger": "" } },
-      { "Sixith" : { "string": "", "finger": "" } },
-      { "Seventh": { "string": "", "finger": "" } }
+      { "Open"   : { "string": "G", "finger": "0"      } },
+      { "Second" : { "string": "C", "finger": "4 ext." } },
+      { "Third"  : { "string": "C", "finger": "3"      } },
+      { "Fourth" : { "string": "C", "finger": "1"      } }
     ]
   },
   {
     "note": "G♯2",
     "position": [ 
-      { "Open"   : { "string": "", "finger": "" } },
-      { "First"  : { "string": "", "finger": "" } },
-      { "Second" : { "string": "", "finger": "" } },
-      { "Third"  : { "string": "", "finger": "" } },
-      { "Fourth" : { "string": "", "finger": "" } },
-      { "Fifth"  : { "string": "", "finger": "" } },
-      { "Sixith" : { "string": "", "finger": "" } },
-      { "Seventh": { "string": "", "finger": "" } }
+      { "Half"   : { "string": "G", "finger": "1"      } },
+      { "First"  : { "string": "G", "finger": "1 ext." } },
+      { "Fourth" : { "string": "C", "finger": "2"      } },
+      { "Fifth"  : { "string": "C", "finger": "1 ext." } }
     ]
   },
-    {
+  {
     "note": "A♭2",
     "position": [ 
-      { "Open"   : { "string": "", "finger": "" } },
-      { "First"  : { "string": "", "finger": "" } },
-      { "Second" : { "string": "", "finger": "" } },
-      { "Third"  : { "string": "", "finger": "" } },
-      { "Fourth" : { "string": "", "finger": "" } },
-      { "Fifth"  : { "string": "", "finger": "" } },
-      { "Sixith" : { "string": "", "finger": "" } },
-      { "Seventh": { "string": "", "finger": "" } }
+      { "Half"   : { "string": "G", "finger": "1"      } },
+      { "First"  : { "string": "G", "finger": "1 ext." } },
+      { "Fourth" : { "string": "C", "finger": "2"      } },
+      { "Fifth"  : { "string": "C", "finger": "1 ext." } }
     ]
   },
   {
     "note": "A2",
     "position": [ 
-      { "Open"   : { "string": "", "finger": "" } },
-      { "First"  : { "string": "", "finger": "" } },
-      { "Second" : { "string": "", "finger": "" } },
-      { "Third"  : { "string": "", "finger": "" } },
-      { "Fourth" : { "string": "", "finger": "" } },
-      { "Fifth"  : { "string": "", "finger": "" } },
-      { "Sixith" : { "string": "", "finger": "" } },
-      { "Seventh": { "string": "", "finger": "" } }
+      { "Half"   : { "string": "G", "finger": "2"      } },
+      { "First"  : { "string": "G", "finger": "1"      } },
+      { "Second" : { "string": "G", "finger": "1 ext." } },
+      { "Fourth" : { "string": "C", "finger": "3"      } },
+      { "Fifth"  : { "string": "C", "finger": "1"      } },
+      { "Sixith" : { "string": "C", "finger": "1 ext." } }
     ]
   },
     {
     "note": "A♯2",
     "position": [ 
-      { "Open"   : { "string": "", "finger": "" } },
-      { "First"  : { "string": "", "finger": "" } },
-      { "Second" : { "string": "", "finger": "" } },
-      { "Third"  : { "string": "", "finger": "" } },
-      { "Fourth" : { "string": "", "finger": "" } },
-      { "Fifth"  : { "string": "", "finger": "" } },
-      { "Sixith" : { "string": "", "finger": "" } },
-      { "Seventh": { "string": "", "finger": "" } }
+      { "Half"   : { "string": "G", "finger": "3" } },
+      { "First"  : { "string": "G", "finger": "2" } },
+      { "Second" : { "string": "G", "finger": "1" } },
+      { "Fourth" : { "string": "C", "finger": "4" } },
+      { "Fifth"  : { "string": "C", "finger": "2" } },
+      { "Sixith" : { "string": "C", "finger": "1" } }
     ]
   },
   {
     "note": "B♭2",
     "position": [ 
-      { "Open"   : { "string": "", "finger": "" } },
-      { "First"  : { "string": "", "finger": "" } },
-      { "Second" : { "string": "", "finger": "" } },
-      { "Third"  : { "string": "", "finger": "" } },
-      { "Fourth" : { "string": "", "finger": "" } },
-      { "Fifth"  : { "string": "", "finger": "" } },
-      { "Sixith" : { "string": "", "finger": "" } },
-      { "Seventh": { "string": "", "finger": "" } }
+      { "Half"   : { "string": "G", "finger": "3" } },
+      { "First"  : { "string": "G", "finger": "2" } },
+      { "Second" : { "string": "G", "finger": "1" } },
+      { "Fourth" : { "string": "C", "finger": "4" } },
+      { "Fifth"  : { "string": "C", "finger": "2" } },
+      { "Sixith" : { "string": "C", "finger": "1" } }
     ]
   },
   {
     "note": "B2",
     "position": [ 
-      { "Open"   : { "string": "", "finger": "" } },
-      { "First"  : { "string": "", "finger": "" } },
-      { "Second" : { "string": "", "finger": "" } },
-      { "Third"  : { "string": "", "finger": "" } },
-      { "Fourth" : { "string": "", "finger": "" } },
-      { "Fifth"  : { "string": "", "finger": "" } },
-      { "Sixith" : { "string": "", "finger": "" } },
-      { "Seventh": { "string": "", "finger": "" } }
+      { "Half"   : { "string": "G", "finger": "4"      } },
+      { "First"  : { "string": "G", "finger": "3"      } },
+      { "Second" : { "string": "G", "finger": "2"      } },
+      { "Third"  : { "string": "G", "finger": "1 ext." } },
+      { "Fourth" : { "string": "C", "finger": "4 ext." } },
+      { "Fifth"  : { "string": "C", "finger": "3 ext." } },
+      { "Sixith" : { "string": "C", "finger": "2 low" } },
+      { "Seventh": { "string": "C", "finger": "1 low" } }
     ]
   },
   {
     "note": "C3",
     "position": [ 
-      { "Open"   : { "string": "", "finger": "" } },
-      { "First"  : { "string": "", "finger": "" } },
-      { "Second" : { "string": "", "finger": "" } },
-      { "Third"  : { "string": "", "finger": "" } },
-      { "Fourth" : { "string": "", "finger": "" } },
-      { "Fifth"  : { "string": "", "finger": "" } },
-      { "Sixith" : { "string": "", "finger": "" } },
-      { "Seventh": { "string": "", "finger": "" } }
+      { "Half"   : { "string": "G", "finger": "4 ext." } },
+      { "First"  : { "string": "G", "finger": "4"      } },
+      { "Second" : { "string": "G", "finger": "3"      } },
+      { "Third"  : { "string": "G", "finger": "1"      } },
+      { "Fourth" : { "string": "C", "finger": "4 ext." } },
+      { "Fifth"  : { "string": "C", "finger": "3"      } },
+      { "Sixith" : { "string": "C", "finger": "2"      } },
+      { "Seventh": { "string": "C", "finger": "1"      } }
     ]
   },
   {
     "note": "C♯3",
     "position": [ 
-      { "Open"   : { "string": "", "finger": "" } },
-      { "First"  : { "string": "", "finger": "" } },
-      { "Second" : { "string": "", "finger": "" } },
-      { "Third"  : { "string": "", "finger": "" } },
-      { "Fourth" : { "string": "", "finger": "" } },
-      { "Fifth"  : { "string": "", "finger": "" } },
-      { "Sixith" : { "string": "", "finger": "" } },
-      { "Seventh": { "string": "", "finger": "" } }
+      { "First"  : { "string": "G", "finger": "1 ext." } },
+      { "Second" : { "string": "G", "finger": "4"      } },
+      { "Third"  : { "string": "G", "finger": "2"      } },
+      { "Fourth" : { "string": "G", "finger": "1 ext." } },
+      { "Fifth"  : { "string": "C", "finger": "3 ext." } },
+      { "Sixith" : { "string": "C", "finger": "2 ext." } },
+      { "Seventh": { "string": "C", "finger": "2 low"  } }
     ]
   },
     {
     "note": "D♭3",
     "position": [ 
-      { "Open"   : { "string": "", "finger": "" } },
-      { "First"  : { "string": "", "finger": "" } },
-      { "Second" : { "string": "", "finger": "" } },
-      { "Third"  : { "string": "", "finger": "" } },
-      { "Fourth" : { "string": "", "finger": "" } },
-      { "Fifth"  : { "string": "", "finger": "" } },
-      { "Sixith" : { "string": "", "finger": "" } },
-      { "Seventh": { "string": "", "finger": "" } }
+      { "First"  : { "string": "G", "finger": "1 ext." } },
+      { "Second" : { "string": "G", "finger": "4"      } },
+      { "Third"  : { "string": "G", "finger": "2"      } },
+      { "Fourth" : { "string": "G", "finger": "1 ext." } },
+      { "Fifth"  : { "string": "C", "finger": "3 ext." } },
+      { "Sixith" : { "string": "C", "finger": "2 ext." } },
+      { "Seventh": { "string": "C", "finger": "2 low"  } }
     ]
   },
   {
     "note": "D3",
     "position": [ 
-      { "Open"   : { "string": "", "finger": "" } },
-      { "First"  : { "string": "", "finger": "" } },
-      { "Second" : { "string": "", "finger": "" } },
-      { "Third"  : { "string": "", "finger": "" } },
-      { "Fourth" : { "string": "", "finger": "" } },
-      { "Fifth"  : { "string": "", "finger": "" } },
-      { "Sixith" : { "string": "", "finger": "" } },
-      { "Seventh": { "string": "", "finger": "" } }
+      { "Open"   : { "string": "D", "finger": "0"      } },
+      { "Second" : { "string": "G", "finger": "4 ext." } },
+      { "Third"  : { "string": "G", "finger": "3"      } },
+      { "Fourth" : { "string": "G", "finger": "1"      } }
     ]
   },
   {
     "note": "D♯3",
     "position": [ 
-      { "Open"   : { "string": "", "finger": "" } },
-      { "First"  : { "string": "", "finger": "" } },
-      { "Second" : { "string": "", "finger": "" } },
-      { "Third"  : { "string": "", "finger": "" } },
-      { "Fourth" : { "string": "", "finger": "" } },
-      { "Fifth"  : { "string": "", "finger": "" } },
-      { "Sixith" : { "string": "", "finger": "" } },
-      { "Seventh": { "string": "", "finger": "" } }
+      { "Half"   : { "string": "D", "finger": "1"      } },
+      { "First"  : { "string": "D", "finger": "1 ext." } },
+      { "Third"  : { "string": "G", "finger": "4"      } },
+      { "Fourth" : { "string": "G", "finger": "2"      } },
+      { "Fifth"  : { "string": "G", "finger": "1 ext." } }
     ]
   },
     {
     "note": "E♭3",
     "position": [ 
-      { "Open"   : { "string": "", "finger": "" } },
-      { "First"  : { "string": "", "finger": "" } },
-      { "Second" : { "string": "", "finger": "" } },
-      { "Third"  : { "string": "", "finger": "" } },
-      { "Fourth" : { "string": "", "finger": "" } },
-      { "Fifth"  : { "string": "", "finger": "" } },
-      { "Sixith" : { "string": "", "finger": "" } },
-      { "Seventh": { "string": "", "finger": "" } }
+      { "Half"   : { "string": "D", "finger": "1"      } },
+      { "First"  : { "string": "D", "finger": "1 ext." } },
+      { "Third"  : { "string": "G", "finger": "4"      } },
+      { "Fourth" : { "string": "G", "finger": "2"      } },
+      { "Fifth"  : { "string": "G", "finger": "1 ext." } }
     ]
   },
   {
     "note": "E3",
     "position": [ 
-      { "Open"   : { "string": "", "finger": "" } },
-      { "First"  : { "string": "", "finger": "" } },
-      { "Second" : { "string": "", "finger": "" } },
-      { "Third"  : { "string": "", "finger": "" } },
-      { "Fourth" : { "string": "", "finger": "" } },
-      { "Fifth"  : { "string": "", "finger": "" } },
-      { "Sixith" : { "string": "", "finger": "" } },
-      { "Seventh": { "string": "", "finger": "" } }
+      { "Half"   : { "string": "D", "finger": "2"      } },
+      { "First"  : { "string": "D", "finger": "1"      } },
+      { "Second" : { "string": "D", "finger": "1 ext." } },
+      { "Fourth" : { "string": "G", "finger": "3"      } },
+      { "Fifth"  : { "string": "G", "finger": "1"      } },
+      { "Sixith" : { "string": "G", "finger": "1 ext." } }
     ]
   },
   {
     "note": "F3",
     "position": [ 
-      { "Open"   : { "string": "", "finger": "" } },
-      { "First"  : { "string": "", "finger": "" } },
-      { "Second" : { "string": "", "finger": "" } },
-      { "Third"  : { "string": "", "finger": "" } },
-      { "Fourth" : { "string": "", "finger": "" } },
-      { "Fifth"  : { "string": "", "finger": "" } },
-      { "Sixith" : { "string": "", "finger": "" } },
-      { "Seventh": { "string": "", "finger": "" } }
+      { "Half"   : { "string": "D", "finger": "3" } },
+      { "First"  : { "string": "D", "finger": "2" } },
+      { "Second" : { "string": "D", "finger": "1" } },
+      { "Fourth" : { "string": "G", "finger": "4" } },
+      { "Fifth"  : { "string": "G", "finger": "2" } },
+      { "Sixith" : { "string": "G", "finger": "1" } }
     ]
   },
   {
     "note": "F♯3",
     "position": [ 
-      { "Open"   : { "string": "", "finger": "" } },
-      { "First"  : { "string": "", "finger": "" } },
-      { "Second" : { "string": "", "finger": "" } },
-      { "Third"  : { "string": "", "finger": "" } },
-      { "Fourth" : { "string": "", "finger": "" } },
-      { "Fifth"  : { "string": "", "finger": "" } },
-      { "Sixith" : { "string": "", "finger": "" } },
-      { "Seventh": { "string": "", "finger": "" } }
+      { "Half"   : { "string": "D", "finger": "4"      } },
+      { "First"  : { "string": "D", "finger": "3"      } },
+      { "Second" : { "string": "D", "finger": "2"      } },
+      { "Third"  : { "string": "D", "finger": "1 ext." } },
+      { "Fourth" : { "string": "G", "finger": "4 ext." } },
+      { "Fifth"  : { "string": "G", "finger": "2 ext." } },
+      { "Sixith" : { "string": "G", "finger": "2 low"  } },
+      { "Seventh": { "string": "G", "finger": "1 ext." } }
     ]
   },
     {
     "note": "G♭3",
     "position": [ 
-      { "Open"   : { "string": "", "finger": "" } },
-      { "First"  : { "string": "", "finger": "" } },
-      { "Second" : { "string": "", "finger": "" } },
-      { "Third"  : { "string": "", "finger": "" } },
-      { "Fourth" : { "string": "", "finger": "" } },
-      { "Fifth"  : { "string": "", "finger": "" } },
-      { "Sixith" : { "string": "", "finger": "" } },
-      { "Seventh": { "string": "", "finger": "" } }
+      { "Half"   : { "string": "D", "finger": "4"      } },
+      { "First"  : { "string": "D", "finger": "3"      } },
+      { "Second" : { "string": "D", "finger": "2"      } },
+      { "Third"  : { "string": "D", "finger": "1 ext." } },
+      { "Fourth" : { "string": "G", "finger": "4 ext." } },
+      { "Fifth"  : { "string": "G", "finger": "2 ext." } },
+      { "Sixith" : { "string": "G", "finger": "2 low"  } },
+      { "Seventh": { "string": "G", "finger": "1 ext." } }
     ]
   },
   {
     "note": "G3",
     "position": [ 
-      { "Open"   : { "string": "", "finger": "" } },
-      { "First"  : { "string": "", "finger": "" } },
-      { "Second" : { "string": "", "finger": "" } },
-      { "Third"  : { "string": "", "finger": "" } },
-      { "Fourth" : { "string": "", "finger": "" } },
-      { "Fifth"  : { "string": "", "finger": "" } },
-      { "Sixith" : { "string": "", "finger": "" } },
-      { "Seventh": { "string": "", "finger": "" } }
+      { "Half"   : { "string": "D", "finger": "4 ext." } },
+      { "First"  : { "string": "D", "finger": "4"      } },
+      { "Second" : { "string": "D", "finger": "3"      } },
+      { "Third"  : { "string": "D", "finger": "1"      } },
+      { "Fifth"  : { "string": "G", "finger": "3"      } },
+      { "Sixith" : { "string": "G", "finger": "2"      } },
+      { "Seventh": { "string": "G", "finger": "1"      } }
     ]
   },
   {
     "note": "G♯3",
     "position": [ 
-      { "Open"   : { "string": "", "finger": "" } },
-      { "First"  : { "string": "", "finger": "" } },
-      { "Second" : { "string": "", "finger": "" } },
-      { "Third"  : { "string": "", "finger": "" } },
-      { "Fourth" : { "string": "", "finger": "" } },
-      { "Fifth"  : { "string": "", "finger": "" } },
-      { "Sixith" : { "string": "", "finger": "" } },
-      { "Seventh": { "string": "", "finger": "" } }
+      { "First"  : { "string": "D", "finger": "4 ext." } },
+      { "Second" : { "string": "D", "finger": "4"      } },
+      { "Third"  : { "string": "D", "finger": "2"      } },
+      { "Fourth" : { "string": "D", "finger": "1 ext." } },
+      { "Fifth"  : { "string": "G", "finger": "3 ext." } },
+      { "Sixith" : { "string": "G", "finger": "2 ext." } },
+      { "Seventh": { "string": "G", "finger": "2 low"  } }
     ]
   },
     {
     "note": "A♭3",
     "position": [ 
-      { "Open"   : { "string": "", "finger": "" } },
-      { "First"  : { "string": "", "finger": "" } },
-      { "Second" : { "string": "", "finger": "" } },
-      { "Third"  : { "string": "", "finger": "" } },
-      { "Fourth" : { "string": "", "finger": "" } },
-      { "Fifth"  : { "string": "", "finger": "" } },
-      { "Sixith" : { "string": "", "finger": "" } },
-      { "Seventh": { "string": "", "finger": "" } }
+      { "First"  : { "string": "D", "finger": "4 ext." } },
+      { "Second" : { "string": "D", "finger": "4"      } },
+      { "Third"  : { "string": "D", "finger": "2"      } },
+      { "Fourth" : { "string": "D", "finger": "1 ext." } },
+      { "Fifth"  : { "string": "G", "finger": "3 ext." } },
+      { "Sixith" : { "string": "G", "finger": "2 ext." } },
+      { "Seventh": { "string": "G", "finger": "2 low"  } }
     ]
   },
   {
     "note": "A3",
     "position": [ 
-      { "Open"   : { "string": "", "finger": "" } },
-      { "First"  : { "string": "", "finger": "" } },
-      { "Second" : { "string": "", "finger": "" } },
-      { "Third"  : { "string": "", "finger": "" } },
-      { "Fourth" : { "string": "", "finger": "" } },
-      { "Fifth"  : { "string": "", "finger": "" } },
-      { "Sixith" : { "string": "", "finger": "" } },
-      { "Seventh": { "string": "", "finger": "" } }
+      { "Open"   : { "string": "A", "finger": "0"      } },
+      { "Second" : { "string": "D", "finger": "4 ext." } },
+      { "Third"  : { "string": "D", "finger": "3"      } },
+      { "Fourth" : { "string": "D", "finger": "1"      } },
+      { "Sixith" : { "string": "G", "finger": "3"      } },
+      { "Seventh": { "string": "G", "finger": "2"      } }
     ]
   },
   {
     "note": "A♯3",
     "position": [ 
-      { "Open"   : { "string": "", "finger": "" } },
-      { "First"  : { "string": "", "finger": "" } },
-      { "Second" : { "string": "", "finger": "" } },
-      { "Third"  : { "string": "", "finger": "" } },
-      { "Fourth" : { "string": "", "finger": "" } },
-      { "Fifth"  : { "string": "", "finger": "" } },
-      { "Sixith" : { "string": "", "finger": "" } },
-      { "Seventh": { "string": "", "finger": "" } }
+      { "Half"   : { "string": "A", "finger": "1"      } },
+      { "First"  : { "string": "A", "finger": "1 ext." } },
+      { "Second" : { "string": "D", "finger": "4 ext." } },
+      { "Third"  : { "string": "D", "finger": "4"      } },
+      { "Fourth" : { "string": "D", "finger": "2"      } },
+      { "Fifth"  : { "string": "D", "finger": "1 ext." } },
+      { "Sixith" : { "string": "G", "finger": "3 ext." } },
+      { "Seventh": { "string": "G", "finger": "3"      } }
     ]
   },
     {
     "note": "B♭3",
     "position": [ 
-      { "Open"   : { "string": "", "finger": "" } },
-      { "First"  : { "string": "", "finger": "" } },
-      { "Second" : { "string": "", "finger": "" } },
-      { "Third"  : { "string": "", "finger": "" } },
-      { "Fourth" : { "string": "", "finger": "" } },
-      { "Fifth"  : { "string": "", "finger": "" } },
-      { "Sixith" : { "string": "", "finger": "" } },
-      { "Seventh": { "string": "", "finger": "" } }
+      { "Half"   : { "string": "A", "finger": "1"      } },
+      { "First"  : { "string": "A", "finger": "1 ext." } },
+      { "Second" : { "string": "D", "finger": "4 ext." } },
+      { "Third"  : { "string": "D", "finger": "4"      } },
+      { "Fourth" : { "string": "D", "finger": "2"      } },
+      { "Fifth"  : { "string": "D", "finger": "1 ext." } },
+      { "Sixith" : { "string": "G", "finger": "3 ext." } },
+      { "Seventh": { "string": "G", "finger": "3"      } }
     ]
   },
   {
     "note": "B3",
     "position": [ 
-      { "Open"   : { "string": "", "finger": "" } },
-      { "First"  : { "string": "", "finger": "" } },
-      { "Second" : { "string": "", "finger": "" } },
-      { "Third"  : { "string": "", "finger": "" } },
-      { "Fourth" : { "string": "", "finger": "" } },
-      { "Fifth"  : { "string": "", "finger": "" } },
-      { "Sixith" : { "string": "", "finger": "" } },
-      { "Seventh": { "string": "", "finger": "" } }
+      { "Half"   : { "string": "A", "finger": "2"      } },
+      { "First"  : { "string": "A", "finger": "1"      } },
+      { "Second" : { "string": "A", "finger": "1 ext." } },
+      { "Third"  : { "string": "D", "finger": "4 ext." } },
+      { "Fourth" : { "string": "D", "finger": "3"      } },
+      { "Fifth"  : { "string": "D", "finger": "1"      } }
     ]
   },
   {
     "note": "C4",
     "position": [ 
-      { "Open"   : { "string": "", "finger": "" } },
-      { "First"  : { "string": "", "finger": "" } },
-      { "Second" : { "string": "", "finger": "" } },
-      { "Third"  : { "string": "", "finger": "" } },
-      { "Fourth" : { "string": "", "finger": "" } },
-      { "Fifth"  : { "string": "", "finger": "" } },
-      { "Sixith" : { "string": "", "finger": "" } },
-      { "Seventh": { "string": "", "finger": "" } }
+      { "Half"   : { "string": "A", "finger": "3" } },
+      { "First"  : { "string": "A", "finger": "2" } },
+      { "Second" : { "string": "A", "finger": "1" } },
+      { "Fourth" : { "string": "D", "finger": "4" } },
+      { "Fifth"  : { "string": "D", "finger": "2" } },
+      { "Sixith" : { "string": "D", "finger": "1" } }
     ]
   },
   {
     "note": "C♯4",
     "position": [ 
-      { "Open"   : { "string": "", "finger": "" } },
-      { "First"  : { "string": "", "finger": "" } },
-      { "Second" : { "string": "", "finger": "" } },
-      { "Third"  : { "string": "", "finger": "" } },
-      { "Fourth" : { "string": "", "finger": "" } },
-      { "Fifth"  : { "string": "", "finger": "" } },
-      { "Sixith" : { "string": "", "finger": "" } },
-      { "Seventh": { "string": "", "finger": "" } }
+      { "Half"   : { "string": "A", "finger": "4"      } },
+      { "First"  : { "string": "A", "finger": "3"      } },
+      { "Second" : { "string": "A", "finger": "2"      } },
+      { "Third"  : { "string": "A", "finger": "1 ext." } },
+      { "Fourth" : { "string": "D", "finger": "4 ext." } },
+      { "Fifth"  : { "string": "D", "finger": "2 ext"  } },
+      { "Sixith" : { "string": "D", "finger": "2 low"  } }
     ]
   },
     {
     "note": "D♭4",
     "position": [ 
-      { "Open"   : { "string": "", "finger": "" } },
-      { "First"  : { "string": "", "finger": "" } },
-      { "Second" : { "string": "", "finger": "" } },
-      { "Third"  : { "string": "", "finger": "" } },
-      { "Fourth" : { "string": "", "finger": "" } },
-      { "Fifth"  : { "string": "", "finger": "" } },
-      { "Sixith" : { "string": "", "finger": "" } },
-      { "Seventh": { "string": "", "finger": "" } }
+      { "Half"   : { "string": "A", "finger": "4"      } },
+      { "First"  : { "string": "A", "finger": "3"      } },
+      { "Second" : { "string": "A", "finger": "2"      } },
+      { "Third"  : { "string": "A", "finger": "1 ext." } },
+      { "Fourth" : { "string": "D", "finger": "4 ext." } },
+      { "Fifth"  : { "string": "D", "finger": "2 ext"  } },
+      { "Sixith" : { "string": "D", "finger": "2 low"  } }
     ]
   },
   {
     "note": "D4",
     "position": [ 
-      { "Open"   : { "string": "", "finger": "" } },
-      { "First"  : { "string": "", "finger": "" } },
-      { "Second" : { "string": "", "finger": "" } },
-      { "Third"  : { "string": "", "finger": "" } },
-      { "Fourth" : { "string": "", "finger": "" } },
-      { "Fifth"  : { "string": "", "finger": "" } },
-      { "Sixith" : { "string": "", "finger": "" } },
-      { "Seventh": { "string": "", "finger": "" } }
+      { "Half"   : { "string": "A", "finger": "4 ext." } },
+      { "First"  : { "string": "A", "finger": "4"      } },
+      { "Second" : { "string": "A", "finger": "3"      } },
+      { "Third"  : { "string": "A", "finger": "1"      } },
+      { "Fifth"  : { "string": "D", "finger": "3"      } },
+      { "Sixith" : { "string": "D", "finger": "2"      } },
+      { "Seventh": { "string": "D", "finger": "1"      } }
     ]
   },
   {
     "note": "D♯4",
     "position": [ 
-      { "Open"   : { "string": "", "finger": "" } },
-      { "First"  : { "string": "", "finger": "" } },
-      { "Second" : { "string": "", "finger": "" } },
-      { "Third"  : { "string": "", "finger": "" } },
-      { "Fourth" : { "string": "", "finger": "" } },
-      { "Fifth"  : { "string": "", "finger": "" } },
-      { "Sixith" : { "string": "", "finger": "" } },
-      { "Seventh": { "string": "", "finger": "" } }
+      { "First"  : { "string": "A", "finger": "4 ext." } },
+      { "Second" : { "string": "A", "finger": "4"      } },
+      { "Third"  : { "string": "A", "finger": "2"      } },
+      { "Fourth" : { "string": "D", "finger": "4 ext." } },
+      { "Fifth"  : { "string": "D", "finger": "3 ext." } },
+      { "Sixith" : { "string": "D", "finger": "2 ext"  } }
     ]
   },
   {
     "note": "E♭4",
     "position": [ 
-      { "Open"   : { "string": "", "finger": "" } },
-      { "First"  : { "string": "", "finger": "" } },
-      { "Second" : { "string": "", "finger": "" } },
-      { "Third"  : { "string": "", "finger": "" } },
-      { "Fourth" : { "string": "", "finger": "" } },
-      { "Fifth"  : { "string": "", "finger": "" } },
-      { "Sixith" : { "string": "", "finger": "" } },
-      { "Seventh": { "string": "", "finger": "" } }
+      { "First"  : { "string": "A", "finger": "4 ext." } },
+      { "Second" : { "string": "A", "finger": "4"      } },
+      { "Third"  : { "string": "A", "finger": "2"      } },
+      { "Fourth" : { "string": "D", "finger": "4 ext." } },
+      { "Fifth"  : { "string": "D", "finger": "3 ext." } },
+      { "Sixith" : { "string": "D", "finger": "2 ext"  } }
     ]
   },
   {
     "note": "E4",
     "position": [ 
-      { "Open"   : { "string": "", "finger": "" } },
-      { "First"  : { "string": "", "finger": "" } },
-      { "Second" : { "string": "", "finger": "" } },
-      { "Third"  : { "string": "", "finger": "" } },
-      { "Fourth" : { "string": "", "finger": "" } },
-      { "Fifth"  : { "string": "", "finger": "" } },
-      { "Sixith" : { "string": "", "finger": "" } },
-      { "Seventh": { "string": "", "finger": "" } }
+      { "Second" : { "string": "A", "finger": "4 ext." } },
+      { "Third"  : { "string": "A", "finger": "3"      } },
+      { "Fourth" : { "string": "A", "finger": "1"      } },
+      { "Fifth"  : { "string": "A", "finger": "1 ext." } },
+      { "Sixith" : { "string": "D", "finger": "3"      } },
+      { "Seventh": { "string": "D", "finger": "2"      } }
     ]
   },
   {
     "note": "F4",
     "position": [ 
-      { "Open"   : { "string": "", "finger": "" } },
-      { "First"  : { "string": "", "finger": "" } },
-      { "Second" : { "string": "", "finger": "" } },
-      { "Third"  : { "string": "", "finger": "" } },
-      { "Fourth" : { "string": "", "finger": "" } },
-      { "Fifth"  : { "string": "", "finger": "" } },
-      { "Sixith" : { "string": "", "finger": "" } },
-      { "Seventh": { "string": "", "finger": "" } }
+      { "Third"  : { "string": "A", "finger": "4"      } },
+      { "Fourth" : { "string": "A", "finger": "2"      } },
+      { "Fifth"  : { "string": "A", "finger": "1"      } },
+      { "Sixith" : { "string": "A", "finger": "3 ext." } },
+      { "Seventh": { "string": "A", "finger": "3"      } }
     ]
   },
   {
     "note": "F♯4",
     "position": [ 
-      { "Open"   : { "string": "", "finger": "" } },
-      { "First"  : { "string": "", "finger": "" } },
-      { "Second" : { "string": "", "finger": "" } },
-      { "Third"  : { "string": "", "finger": "" } },
-      { "Fourth" : { "string": "", "finger": "" } },
-      { "Fifth"  : { "string": "", "finger": "" } },
-      { "Sixith" : { "string": "", "finger": "" } },
-      { "Seventh": { "string": "", "finger": "" } }
+      { "Third"  : { "string": "A", "finger": "4 ext." } },
+      { "Fourth" : { "string": "A", "finger": "3"      } },
+      { "Fifth"  : { "string": "A", "finger": "2"      } },
+      { "Sixith" : { "string": "A", "finger": "1 ext." } },
+      { "Seventh": { "string": "D", "finger": "3 ext." } }
     ]
   },
   {
     "note": "G♭4",
     "position": [ 
-      { "Open"   : { "string": "", "finger": "" } },
-      { "First"  : { "string": "", "finger": "" } },
-      { "Second" : { "string": "", "finger": "" } },
-      { "Third"  : { "string": "", "finger": "" } },
-      { "Fourth" : { "string": "", "finger": "" } },
-      { "Fifth"  : { "string": "", "finger": "" } },
-      { "Sixith" : { "string": "", "finger": "" } },
-      { "Seventh": { "string": "", "finger": "" } }
+      { "Third"  : { "string": "A", "finger": "4 ext." } },
+      { "Fourth" : { "string": "A", "finger": "3"      } },
+      { "Fifth"  : { "string": "A", "finger": "2"      } },
+      { "Sixith" : { "string": "A", "finger": "1 ext." } },
+      { "Seventh": { "string": "D", "finger": "3 ext." } }
     ]
   },
   {
     "note": "G4",
     "position": [ 
-      { "Open"   : { "string": "", "finger": "" } },
-      { "First"  : { "string": "", "finger": "" } },
-      { "Second" : { "string": "", "finger": "" } },
-      { "Third"  : { "string": "", "finger": "" } },
-      { "Fourth" : { "string": "", "finger": "" } },
-      { "Fifth"  : { "string": "", "finger": "" } },
-      { "Sixith" : { "string": "", "finger": "" } },
-      { "Seventh": { "string": "", "finger": "" } }
+      { "Fourth" : { "string": "A", "finger": "4"     } },
+      { "Fifth"  : { "string": "A", "finger": "3"     } },
+      { "Sixith" : { "string": "A", "finger": "1"     } }
     ]
   },
   {
     "note": "G♯4",
     "position": [ 
-      { "Open"   : { "string": "", "finger": "" } },
-      { "First"  : { "string": "", "finger": "" } },
-      { "Second" : { "string": "", "finger": "" } },
-      { "Third"  : { "string": "", "finger": "" } },
-      { "Fourth" : { "string": "", "finger": "" } },
-      { "Fifth"  : { "string": "", "finger": "" } },
-      { "Sixith" : { "string": "", "finger": "" } },
-      { "Seventh": { "string": "", "finger": "" } }
+      { "Fourth" : { "string": "A", "finger": "4 ext." } },
+      { "Fifth"  : { "string": "A", "finger": "1 ext." } },
+      { "Sixith" : { "string": "A", "finger": "2 low"  } },
+      { "Seventh": { "string": "A", "finger": "1 ext." } }
     ]
   },
   {
     "note": "A♭4",
     "position": [ 
-      { "Open"   : { "string": "", "finger": "" } },
-      { "First"  : { "string": "", "finger": "" } },
-      { "Second" : { "string": "", "finger": "" } },
-      { "Third"  : { "string": "", "finger": "" } },
-      { "Fourth" : { "string": "", "finger": "" } },
-      { "Fifth"  : { "string": "", "finger": "" } },
-      { "Sixith" : { "string": "", "finger": "" } },
-      { "Seventh": { "string": "", "finger": "" } }
+      { "Fourth" : { "string": "A", "finger": "4 ext." } },
+      { "Fifth"  : { "string": "A", "finger": "1 ext." } },
+      { "Sixith" : { "string": "A", "finger": "2 low"  } },
+      { "Seventh": { "string": "A", "finger": "1 ext." } }
     ]
   },
   {
     "note": "A4",
     "position": [ 
-      { "Open"   : { "string": "", "finger": "" } },
-      { "First"  : { "string": "", "finger": "" } },
-      { "Second" : { "string": "", "finger": "" } },
-      { "Third"  : { "string": "", "finger": "" } },
-      { "Fourth" : { "string": "", "finger": "" } },
-      { "Fifth"  : { "string": "", "finger": "" } },
-      { "Sixith" : { "string": "", "finger": "" } },
-      { "Seventh": { "string": "", "finger": "" } }
+      { "Fifth"  : { "string": "A", "finger": "3 ext." } },
+      { "Sixith" : { "string": "A", "finger": "2"      } },
+      { "Seventh": { "string": "A", "finger": "1"      } }
     ]
   },
   {
     "note": "A♯4",
     "position": [ 
-      { "Open"   : { "string": "", "finger": "" } },
-      { "First"  : { "string": "", "finger": "" } },
-      { "Second" : { "string": "", "finger": "" } },
-      { "Third"  : { "string": "", "finger": "" } },
-      { "Fourth" : { "string": "", "finger": "" } },
-      { "Fifth"  : { "string": "", "finger": "" } },
-      { "Sixith" : { "string": "", "finger": "" } },
-      { "Seventh": { "string": "", "finger": "" } }
+      { "Sixith" : { "string": "A", "finger": "2 ext." } },
+      { "Seventh": { "string": "A", "finger": "2 low"  } }
     ]
   },
   {
     "note": "B♭4",
     "position": [ 
-      { "Open"   : { "string": "", "finger": "" } },
-      { "First"  : { "string": "", "finger": "" } },
-      { "Second" : { "string": "", "finger": "" } },
-      { "Third"  : { "string": "", "finger": "" } },
-      { "Fourth" : { "string": "", "finger": "" } },
-      { "Fifth"  : { "string": "", "finger": "" } },
-      { "Sixith" : { "string": "", "finger": "" } },
-      { "Seventh": { "string": "", "finger": "" } }
+      { "Sixith" : { "string": "A", "finger": "2 ext." } },
+      { "Seventh": { "string": "A", "finger": "2 low"  } }
     ]
   },
   {
     "note": "B4",
     "position": [ 
-      { "Open"   : { "string": "", "finger": "" } },
-      { "First"  : { "string": "", "finger": "" } },
-      { "Second" : { "string": "", "finger": "" } },
-      { "Third"  : { "string": "", "finger": "" } },
-      { "Fourth" : { "string": "", "finger": "" } },
-      { "Fifth"  : { "string": "", "finger": "" } },
-      { "Sixith" : { "string": "", "finger": "" } },
-      { "Seventh": { "string": "", "finger": "" } }
+      { "Sixith" : { "string": "A", "finger": "3" } },
+      { "Seventh": { "string": "A", "finger": "2" } }
     ]
   },
   {
     "note": "C5",
     "position": [ 
-      { "Open"   : { "string": "", "finger": "" } },
-      { "First"  : { "string": "", "finger": "" } },
-      { "Second" : { "string": "", "finger": "" } },
-      { "Third"  : { "string": "", "finger": "" } },
-      { "Fourth" : { "string": "", "finger": "" } },
-      { "Fifth"  : { "string": "", "finger": "" } },
-      { "Sixith" : { "string": "", "finger": "" } },
-      { "Seventh": { "string": "", "finger": "" } }
-    ]
-  },
-  {
-    "note": "C♯5",
-    "position": [ 
-      { "Open"   : { "string": "", "finger": "" } },
-      { "First"  : { "string": "", "finger": "" } },
-      { "Second" : { "string": "", "finger": "" } },
-      { "Third"  : { "string": "", "finger": "" } },
-      { "Fourth" : { "string": "", "finger": "" } },
-      { "Fifth"  : { "string": "", "finger": "" } },
-      { "Sixith" : { "string": "", "finger": "" } },
-      { "Seventh": { "string": "", "finger": "" } }
-    ]
-  },
-  {
-    "note": "D5",
-    "position": [ 
-      { "Open"   : { "string": "", "finger": "" } },
-      { "First"  : { "string": "", "finger": "" } },
-      { "Second" : { "string": "", "finger": "" } },
-      { "Third"  : { "string": "", "finger": "" } },
-      { "Fourth" : { "string": "", "finger": "" } },
-      { "Fifth"  : { "string": "", "finger": "" } },
-      { "Sixith" : { "string": "", "finger": "" } },
-      { "Seventh": { "string": "", "finger": "" } }
-    ]
-  },
-  {
-    "note": "D♭5",
-    "position": [ 
-      { "Open"   : { "string": "", "finger": "" } },
-      { "First"  : { "string": "", "finger": "" } },
-      { "Second" : { "string": "", "finger": "" } },
-      { "Third"  : { "string": "", "finger": "" } },
-      { "Fourth" : { "string": "", "finger": "" } },
-      { "Fifth"  : { "string": "", "finger": "" } },
-      { "Sixith" : { "string": "", "finger": "" } },
-      { "Seventh": { "string": "", "finger": "" } }
+      { "Sixith" : { "string": "A", "finger": "3 ext." } },
+      { "Seventh": { "string": "A", "finger": "3"      } }
     ]
   }
 ]
